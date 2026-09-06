@@ -1,0 +1,6 @@
+{
+  "name": "VideoDub",
+  "description": "AI Video Translation Pipeline: Audio extraction, speech recognition with timestamps, language detection, contextual translation, voice generation & dubbing, sync, and subtitle creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
